@@ -3,3 +3,8 @@
 /home/garen/Desktop/Csharp projects/test/test/bin/Debug/test.exe
 /home/garen/Desktop/Csharp projects/test/test/obj/x86/Debug/test.exe
 /home/garen/Desktop/Csharp projects/test/test/obj/x86/Debug/test.exe.mdb
+/home/garen/Desktop/Csharp projects/Csharpening/test/test/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/garen/Desktop/Csharp projects/Csharpening/test/test/bin/Debug/test.exe.mdb
+/home/garen/Desktop/Csharp projects/Csharpening/test/test/bin/Debug/test.exe
+/home/garen/Desktop/Csharp projects/Csharpening/test/test/obj/x86/Debug/test.exe
+/home/garen/Desktop/Csharp projects/Csharpening/test/test/obj/x86/Debug/test.exe.mdb
