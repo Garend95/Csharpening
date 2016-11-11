@@ -1,0 +1,5 @@
+C:\Users\lev\Desktop\New folder\Csharpening\test\test\obj\x86\Debug\test.exe
+C:\Users\lev\Desktop\New folder\Csharpening\test\test\obj\x86\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\lev\Desktop\New folder\Csharpening\test\test\bin\Debug\test.exe
+C:\Users\lev\Desktop\New folder\Csharpening\test\test\bin\Debug\test.pdb
+C:\Users\lev\Desktop\New folder\Csharpening\test\test\obj\x86\Debug\test.pdb

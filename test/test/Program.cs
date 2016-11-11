@@ -13,8 +13,11 @@ namespace test
 
 			theatre.parameters (out h, out w, out a);
 
-			Console.WriteLine ("the height {0}, the width {1}, the side {2}", h, w, a);
+			//Console.WriteLine ("the height {0}, the width {1}, the side {2}", h, w, a);
 
+			bool[][] t_Square = new bool[w][];
+			for(int i = 0; i < w; i++) t_Square[i] = new bool[h];
+ 
 		}
 
 		public void parameters (out int h, out int w, out int a)
