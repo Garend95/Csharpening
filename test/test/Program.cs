@@ -32,10 +32,10 @@ namespace test
 		public void parameters (out int h, out int w, out int a)
 		{
 			Console.WriteLine ("Please insert the height of the theatre square");
-			h = Convert.ToInt32 (Console.ReadLine ());
+			h = Convert.ToInt32 (Console.ReadLine());
 
 			Console.WriteLine ("Now the width");
-			w = Convert.ToInt32 (Console.ReadLine ());
+			w = Convert.ToInt32 (Console.ReadLine());
 
 			Console.WriteLine ("Lastly, insert the length of the side of the square covering it.");
 			a = Convert.ToInt32 (Console.ReadLine ());
