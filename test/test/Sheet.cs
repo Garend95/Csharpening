@@ -23,6 +23,7 @@ namespace test
 			bool condition1 = (input.Contains("ROW") && input.Contains("COL")); // input string has to contain ROW and COL
             bool condition2 = ((input.IndexOf("ROW") == input.LastIndexOf("ROW")) && (input.IndexOf("COL") == input.LastIndexOf("COL"))); // No duplicate ROW and COL substrings should exist
             bool condition3 = ((Math.Abs(input.IndexOf("ROW")-input.IndexOf("COL"))) != 3); // ROW and COL should not be attached ex: ROWCOL COLROW
+            bool condition4 = (input.IndexOf("ROW") < input.Length - 1 && input.IndexOf("COL") < input.Length - 1); // The last of COL or ROW in the string should have numbers coming after it.
             bool rowfirst = (input.IndexOf("ROW") < input.IndexOf("COL")); // whether ROW comes before COL or vice-versa
         }
     }
